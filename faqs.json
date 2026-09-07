@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is this chatbot for?",
+    "answer": "I am an AI-powered FAQ chatbot designed to answer your common questions instantly!"
+  },
+  {
+    "question": "What are your operational hours?",
+    "answer": "Our services are available 24/7 online. Customer support operates from 9 AM to 6 PM."
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions sent to your email."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach customer support via email at support@example.com or call our toll-free number."
+  },
+  {
+    "question": "What services do you offer?",
+    "answer": "We offer AI integration, software development, web application design, and technical training."
+  }
+]
